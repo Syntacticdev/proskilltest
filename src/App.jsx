@@ -17,9 +17,9 @@ function App() {
       <main className="bg-[url('/icon_image/abstract-city.png')]">
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="login" element={<Login />} />
-          <Route path="profile" element={<Profile />} />
-          <Route path="test" element={<Test />} />
+          <Route path="/login" element={<Login />} />
+          <Route path="/profile" element={<Profile />} />
+          <Route path="/test" element={<Test />} />
         </Routes>
       </main>
       {/* <Footer /> */}
