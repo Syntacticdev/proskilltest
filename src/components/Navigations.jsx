@@ -1,6 +1,11 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { MdContactPage, MdSupervisedUserCircle } from "react-icons/md";
+import {
+  MdContactPage,
+  MdSupervisedUserCircle,
+  MdLaptopChromebook,
+  MdAppRegistration,
+} from "react-icons/md";
 
 const Navigations = ({ setToggle }) => {
   const navs = [
@@ -12,15 +17,17 @@ const Navigations = ({ setToggle }) => {
     {
       title: "Test",
       path: "/test",
-    },
-    {
-      title: "About",
-      path: "/about",
+      icon: <MdLaptopChromebook className="w-[40px] h-[40px]" />,
     },
     {
       title: "Contact",
       path: "/contact",
       icon: <MdContactPage className="w-[40px] h-[40px]" />,
+    },
+    {
+      title: "About",
+      path: "/about",
+      icon: <MdAppRegistration className="w-[40px] h-[40px]" />,
     },
   ];
   return (
