@@ -10,7 +10,6 @@ const Header = () => {
           test
         </span>
       </h3>
-      <MdMenu className="w-9 h-9  fill-white" />
     </div>
   );
 };

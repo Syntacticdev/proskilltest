@@ -53,11 +53,11 @@ const Test = () => {
             className="w-full h-4/5 "
           />
         </div>
-        <div className="course__card my-3 grid h-32 p-4 rounded-md bg-[url('icon_image/3d-rendered-podium.png')] bg-cover bg-no-repeat overflow-hidden grid-cols-[60%,40%]">
+        <div className="course__card my-3 grid h-32 p-4 rounded-md bg-green-400 overflow-hidden grid-cols-[60%,40%]">
           <div>
             <div>
               <h1 className="course__code text-white font-semibold text-2xl">
-                MTH212
+                CSC212
               </h1>
               <h1 className="course_name text-yellow-200">
                 Introduction to Physics Maths
