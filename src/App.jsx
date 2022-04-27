@@ -17,7 +17,7 @@ function App() {
   return (
     <div className="App min-h-screen  relative">
       <Header />
-      <main className="bg-[url('/icon_image/abstract-city.png')]">
+      <main className="bg-[url('/icon_image/abstract-city.png')] pt-[70px]">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/login" element={<Login />} />

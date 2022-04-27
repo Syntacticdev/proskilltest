@@ -11,7 +11,7 @@ import {
 
 const Profile = () => {
   return (
-    <div className=" bg-slate-100 bg-[url('/icon_image/abstract-city.png')] relative">
+    <div className=" bg-slate-100 bg-[url('/icon_image/abstract-city.png')]">
       <div className="profile__head px-4 rounded-b-2xl   flex items-center text-center sm:text-left">
         <h1 className="text-white font-bold text-3xl">Profile</h1>
       </div>

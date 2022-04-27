@@ -24,14 +24,14 @@ const Login = () => {
             <input
               type="email"
               placeholder="Email Address"
-              className="border-b-2 w-[300px] outline-none border-gray-400"
+              className="border-b-2 w-[300px] text-gray-600 outline-none border-gray-400"
             />
           </div>
           <div className="w-full mb-8">
             <input
               type="password"
               placeholder="Password"
-              className="border-b-2 w-[300px] outline-none border-gray-400"
+              className="border-b-2 w-[300px] text-gray-600 outline-none border-gray-400"
             />
           </div>
           <div>
