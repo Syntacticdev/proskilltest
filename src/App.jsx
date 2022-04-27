@@ -1,8 +1,5 @@
 import { useState } from "react";
 import "./App.css";
-import Counter from "./components/Counter";
-import Form from "./components/Form";
-import QuestionCard from "./components/QuestionCard";
 import Home from "./pages/Home";
 import Login from "./pages/Login";
 import Profile from "./pages/Profile";
@@ -16,18 +13,16 @@ function App() {
 
   return (
     <div className="App min-h-screen  relative">
-      <BrowserRouter>
-        <Header />
-        <main className="bg-[url('/icon_image/abstract-city.png')]">
-          <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/login" element={<Login />} />
-            <Route path="/profile" element={<Profile />} />
-            <Route path="/test" element={<Test />} />
-          </Routes>
-        </main>
-        {/* <Footer /> */}
-      </BrowserRouter>
+      <Header />
+      <main className="bg-[url('/icon_image/abstract-city.png')]">
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="login" element={<Login />} />
+          <Route path="profile" element={<Profile />} />
+          <Route path="test" element={<Test />} />
+        </Routes>
+      </main>
+      {/* <Footer /> */}
     </div>
   );
 }
