@@ -1,0 +1,182 @@
+[
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which internet company began life as an online bookstore called &#039;Cadabra&#039;?",
+    "correct_answer": "Amazon",
+    "incorrect_answers": ["eBay", "Overstock", "Shopify"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Whistler was the codename of this Microsoft Operating System.",
+    "correct_answer": "Windows XP",
+    "incorrect_answers": ["Windows 2000", "Windows 7", "Windows 95"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "All of the following programs are classified as raster graphics editors EXCEPT:",
+    "correct_answer": "Inkscape",
+    "incorrect_answers": ["Paint.NET", "GIMP", "Adobe Photoshop"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+    "correct_answer": "Taiwan",
+    "incorrect_answers": [
+      "United States",
+      "Germany",
+      "China (People&#039;s Republic of)"
+    ]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?",
+    "correct_answer": "Clipper Chip",
+    "incorrect_answers": ["Enigma Machine", "Skipjack", "Nautilus"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many cores does the Intel i7-6950X have?",
+    "correct_answer": "10",
+    "incorrect_answers": ["12", "8", "4"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which one of these is not an official development name for a Ubuntu release?",
+    "correct_answer": "Mystic Mansion",
+    "incorrect_answers": ["Trusty Tahr", "Utopic Unicorn", "Wily Werewolf"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which coding language was the #1 programming language in terms of usage on GitHub in 2015?",
+    "correct_answer": "JavaScript",
+    "incorrect_answers": ["C#", "Python", "PHP"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?",
+    "correct_answer": "print(&quot;Hello World&quot;)",
+    "incorrect_answers": [
+      "console.log(&quot;Hello World&quot;)",
+      "echo &quot;Hello World&quot;",
+      "printf(&quot;Hello World&quot;)"
+    ]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+    "correct_answer": "&lt;marquee&gt;&lt;/marquee&gt;",
+    "incorrect_answers": [
+      "&lt;scroll&gt;&lt;/scroll&gt;",
+      "&lt;move&gt;&lt;/move&gt;",
+      "&lt;slide&gt;&lt;/slide&gt;"
+    ]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In CSS, which of these values CANNOT be used with the &quot;position&quot; property?",
+    "correct_answer": "center",
+    "incorrect_answers": ["static", "absolute", "relative"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?",
+    "correct_answer": "Heat Sink",
+    "incorrect_answers": ["CPU Vent", "Temperature Decipator", "Heat Vent"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In computing terms, typically what does CLI stand for?",
+    "correct_answer": "Command Line Interface",
+    "incorrect_answers": [
+      "Common Language Input",
+      "Control Line Interface",
+      "Common Language Interface"
+    ]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How fast is USB 3.1 Gen 2 theoretically?",
+    "correct_answer": "10 Gb/s",
+    "incorrect_answers": ["5 Gb/s", "8 Gb/s", "1 Gb/s"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which operating system was released first?",
+    "correct_answer": "Mac OS",
+    "incorrect_answers": ["Windows", "Linux", "OS/2"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is known as &quot;the brain&quot; of the Computer?",
+    "correct_answer": "Central Processing Unit",
+    "incorrect_answers": ["Motherboard", "Graphics Processing Unit", "Keyboard"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the main CPU is the Sega Mega Drive / Sega Genesis?",
+    "correct_answer": "Motorola 68000",
+    "incorrect_answers": ["Zilog Z80", "Yamaha YM2612", "Intel 8088"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Laserjet and inkjet printers are both examples of what type of printer?",
+    "correct_answer": "Non-impact printer",
+    "incorrect_answers": [
+      "Impact printer",
+      "Daisywheel printer",
+      "Dot matrix printer"
+    ]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Approximately how many Apple I personal computers were created?",
+    "correct_answer": "200",
+    "incorrect_answers": ["100", "500", "1000"]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many bits make up the significand portion of a single precision floating point number?",
+    "correct_answer": "23",
+    "incorrect_answers": ["8", "53", "15"]
+  }
+]
